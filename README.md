@@ -10,6 +10,8 @@ Once the database was structured properly, I moved on to the actual analysis: 10
 
 Along the way I ran into several bugs while cleaning and querying the data. I've documented those below along with how I caught them.
 
+Power BI Dashboard built on this database: https://github.com/Ayushi58/luxury-fragrance-powerbi-dashboard
+
 ## Tech Stack
 
 - **Database:** MySQL
